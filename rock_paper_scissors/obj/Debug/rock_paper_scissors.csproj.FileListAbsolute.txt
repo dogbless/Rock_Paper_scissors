@@ -1,0 +1,7 @@
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.AssemblyReference.cache
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\obj\Debug\rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe.config
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\bin\Debug\rock_paper_scissors.exe
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\bin\Debug\rock_paper_scissors.pdb
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\obj\Debug\rock_paper_scissors.exe
+C:\Users\jesse\Downloads\c# fundamentals\rock_paper_scissors\obj\Debug\rock_paper_scissors.pdb
